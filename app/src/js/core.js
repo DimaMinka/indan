@@ -1,0 +1,7 @@
+// ==== CORE ==== //
+
+;(function($){
+  $(function(){
+
+  });
+}(jQuery));

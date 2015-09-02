@@ -1,3 +1,4 @@
+## Wordpress
 *.log
 .htaccess
 sitemap.xml
@@ -12,3 +13,29 @@ wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
 .idea
+/app/bower_components
+/app/node_modules
+
+## General
+.cvs
+.htaccess
+.svn
+*.bak
+*.log
+*.swp
+
+## Windows
+Desktop.ini
+Thumbs.db
+
+## Mac
+.DS_Store
+
+## Development
+.sass-cache
+bower_components
+node_modules
+vendor
+build
+dist
+_normalize.scss
