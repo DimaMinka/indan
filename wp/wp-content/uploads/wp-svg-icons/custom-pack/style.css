@@ -1,0 +1,67 @@
+@font-face {
+	font-family: 'icomoon-custom';
+	src:url('http://indan.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/icomoon-custom.eot?apc08k');
+	src:url('http://indan.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/icomoon-custom.eot?#iefixapc08k') format('embedded-opentype'),
+		url('http://indan.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/icomoon-custom.ttf?apc08k') format('truetype'),
+		url('http://indan.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/icomoon-custom.woff?apc08k') format('woff'),
+		url('http://indan.dev/wp-content/uploads/wp-svg-icons/custom-pack/fonts/icomoon-custom.svg?apc08k#icomoon-custom') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon-custom';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-09:before {
+	content: "\e60b";
+}
+.icon-56:before {
+	content: "\e60d";
+}
+.icon-07:before {
+	content: "\e60c";
+}
+.icon-41:before {
+	content: "\e60a";
+}
+.icon-47:before {
+	content: "\e609";
+}
+.icon-01:before {
+	content: "\e600";
+}
+.icon-03:before {
+	content: "\e601";
+}
+.icon-27:before {
+	content: "\e602";
+}
+.icon-12:before {
+	content: "\e603";
+}
+.icon-42:before {
+	content: "\e604";
+}
+.icon-89:before {
+	content: "\e605";
+}
+.icon-08:before {
+	content: "\e606";
+}
+.icon-81:before {
+	content: "\e607";
+}
+.icon-48:before {
+	content: "\e608";
+}
