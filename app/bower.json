@@ -1,0 +1,35 @@
+{
+  "name": "indan",
+  "homepage": "https://cdk.co.il",
+  "authors": [
+    {
+      "name": "Dima Minka",
+      "email": "cdk@cdk.co.il",
+      "homepage": "http://cdk.co.il"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "wordpress-theme",
+    "gulp",
+    "bower",
+    "sass",
+    "browsersync",
+    "livereload"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".sass-cache",
+    "build"
+  ],
+  "devDependencies": {
+    "meyer-reset": "*",
+    "normalize.css": "^3.0.3",
+    "scut": "^1.2.1"
+  }
+}
