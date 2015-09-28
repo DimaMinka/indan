@@ -13,12 +13,11 @@
   font-weight: 600;
 }
 
-html, body, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address,
-big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul,
-li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,h1, h2, h3, h4, h5, h6, #site-title a,
+body, #site-title a,
 .showbiz-title, #content .showbiz-title a, #content .showbiz-title a:visited, #content .showbiz-title a:hover,
 .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav a, .wpb_content_element .wpb_accordion_header a,
-.tp-caption.basis_very_big_white, .tp-caption.basis_very_big_black, .woocommerce #page div.product .woocommerce-tabs ul.tabs li a {
+.tp-caption.basis_very_big_white, .tp-caption.basis_very_big_black, .woocommerce #page div.product .woocommerce-tabs ul.tabs li a,
+#access ul, .mobile-menu, #mobile-menu-dropdown {
   font-family: 'Arimo', arial, sans-serif !important;
 }
 
