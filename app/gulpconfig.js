@@ -102,6 +102,10 @@ module.exports = {
       src: src+'languages/**/*' // Glob matching any language files you'd like to copy over
     , dest: build+'languages/'
     }
+  , fonts: {
+      src: src+'fonts/**/*'
+    , dest: build+'fonts/'
+    }
   , php: {
       src: src+'**/*.php'
     , dest: build

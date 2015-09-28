@@ -5,6 +5,7 @@
 *.bak
 *.log
 *.swp
+.idea
 
 ## Windows
 Desktop.ini
